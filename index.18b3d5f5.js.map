@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAMA,EAAY,yBACZC,GAAkBC,SAASC,KACjCF,GAAGG,mBAAmB,aAAcJ","sources":["index.ts"],"sourcesContent":["const s: string = '<h1>Привет, юзер!</h1>';\nconst el: HTMLElement = document.body;\nel.insertAdjacentHTML('afterbegin', s);"],"names":["s","el","document","body","insertAdjacentHTML"],"version":3,"file":"index.18b3d5f5.js.map"}
